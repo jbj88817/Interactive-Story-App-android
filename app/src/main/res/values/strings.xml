@@ -4,5 +4,8 @@
     <string name="app_name">Interactive Story</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_start_adventure">START YOUR ADVENTURE</string>
+    <string name="c_desc_title">Signal form Mars</string>
+    <string name="et_hint_enter_name">Enter your name to begin</string>
 
 </resources>
