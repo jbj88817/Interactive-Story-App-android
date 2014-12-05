@@ -7,5 +7,7 @@
     <string name="btn_start_adventure">START YOUR ADVENTURE</string>
     <string name="c_desc_title">Signal form Mars</string>
     <string name="et_hint_enter_name">Enter your name to begin</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
 
 </resources>
